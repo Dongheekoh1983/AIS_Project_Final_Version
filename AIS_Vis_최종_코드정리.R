@@ -7,7 +7,7 @@
 # that can help users to effectively visualize AIS (Automatic Identification System) data.
 # The following work shows all the r source code that were used to develop the visualization application.
 # FYI. After prototype was demonstrated using r, all the corresponding codes were translated into qt cpp.
-
+#I am testing commit to github
 ######################################
 ### Setting up working environment ###
 ######################################
